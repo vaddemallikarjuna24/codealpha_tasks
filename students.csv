@@ -1,0 +1,16 @@
+Student_ID,Name,Gender,Age,Department,Math,Science,English,Attendance
+101,Ram,Male,20,CSE,85,78,88,92
+102,Sita,Female,21,CSE,90,91,95,96
+103,Ravi,Male,20,IT,70,68,72,85
+104,Priya,Female,22,DS,95,94,98,99
+105,Kiran,Male,21,CSE,60,65,70,80
+106,Anjali,Female,20,IT,88,84,86,90
+107,Arjun,Male,22,DS,76,79,81,87
+108,Sneha,Female,21,CSE,92,89,94,97
+109,Rohit,Male,20,IT,67,71,69,82
+110,Divya,Female,22,DS,98,96,99,100
+111,Vijay,Male,21,CSE,73,75,74,84
+112,Keerthi,Female,20,IT,87,90,89,93
+113,Nikhil,Male,22,DS,81,83,80,88
+114,Lakshmi,Female,21,CSE,94,92,96,98
+115,Ajay,Male,20,IT,65,67,66,81
